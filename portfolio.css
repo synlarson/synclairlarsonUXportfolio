@@ -792,13 +792,14 @@ body { font-family: 'Montserrat', sans-serif;}
       transform: rotate(360deg);
     }
   }
-  .resume{background-color: #F9FAFF;}
+  .resume{background-color: #fff;}
   .resume .resume-title {
     font-size: 26px;
     font-weight: 400;
     margin-top: 20px;
     margin-bottom: 20px;
     color: #343f52;
+    font-family: 'Montserrat', sans-serif;;
   }
   
   .resume .resume-item {
